@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to my Github 👋
 
-<!--
-**William-Abbot/William-Abbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Pronouns: he/him/his
 
-Here are some ideas to get you started:
+![William Abbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Abbot&layout=compact&show_icons=true&theme=prussian)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<details>
+  <summary><h2>Classes I have taken</h2></summary>
+<br>
+
+|   Quarter   |                                                                    Class                                                                    |
+| :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|  Fall 2019  |                                               COMP2710(https://github.com/William-Abbot/COMP2710)                                           |
+| Spring 2021 |                                               COMP5630(https://github.com/William-Abbot/COMP5630)                                           |
+|  Fall 2021  |                                               COMP4320(https://github.com/William-Abbot/COMP4320)                                           |
+|  Fall 2021 |                                                COMP5370(https://github.com/William-Abbot/COMP5370)                                           |
+
+
+</details>
