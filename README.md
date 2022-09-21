@@ -1,6 +1,5 @@
 # Welcome to my Github 👋
 
-> Pronouns: he/him/his
 
 ![William Abbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Abbot&layout=compact&show_icons=true&theme=prussian)
 
