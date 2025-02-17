@@ -7,9 +7,9 @@
 
 
 
-<details>
-  <summary><h2>Classes I have taken</h2></summary>
-<br>
+[//]:<details>
+[//]:  <summary><h2>Classes I have taken</h2></summary>
+[//]:<br>
 
 |   Quarter   |                                                                    Class                                                                    |
 | :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
