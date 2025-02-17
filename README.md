@@ -1,15 +1,12 @@
 # Welcome to my Github 👋
 
 
-![William Abbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Abbot&layout=compact&show_icons=true&theme=prussian)
 
 
 
-
-
-[//]:<details>
-[//]:  <summary><h2>Classes I have taken</h2></summary>
-[//]:<br>
+<details>
+<summary><h2>Classes I have taken</h2></summary>
+<br>
 
 |   Quarter   |                                                                    Class                                                                    |
 | :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
